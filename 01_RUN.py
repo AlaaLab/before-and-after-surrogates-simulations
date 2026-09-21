@@ -10,8 +10,8 @@ import os
 
 from sklearn.metrics import r2_score, mean_absolute_error
 
-from PLOTTING import *
-from SIMULATE import *
+from utils.PLOTTING import *
+from utils.SIMULATE import *
 
 # ============================================================
 # SETTINGS
